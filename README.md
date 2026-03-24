@@ -61,7 +61,7 @@ This project demonstrates hands-on experience with Linux administration, web ser
 
 ### 🖥️ Virtual Machine Running
 
-![Image](screenshots/feZv6.png)
+![Image](feZv6.png)
 
 ### ⚙️ Apache Service Status
 
